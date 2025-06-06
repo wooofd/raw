@@ -1,1 +1,1 @@
-Majestic Services Os melhores discord https://discord.gg/Usp5zjAEYM
+Bem-vindo ao Majestic Executor Free
