@@ -3,3 +3,4 @@
 [+] Silent Melhorado .
 [+] Novo Loader .
 [+] Interface Melhorada 
+[+] Novo Loader 2.0 .
