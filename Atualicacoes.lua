@@ -5,4 +5,4 @@
 [+] Interface Melhorada 
 [+] Novo Loader 2.0 .
 [+] Novo Loader 3.0 .
-[+] Novo Chrst Freefire .
+[+] Novo Cheat Freefire .
