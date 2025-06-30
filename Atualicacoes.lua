@@ -9,9 +9,9 @@
 [+] Novo Cheat Csgo2 .
 [+] Fix Inject Freefire .
 [+] adicionar godmod em maiorias cidadades pl 
-[+]arrumar o reparar veiculo quando repara ele nao consegue mais entrar no carro 
-[+]colocar noclip invicivel  
-[+]Copia roupa bugado  
+[+] arrumar o reparar veiculo quando repara ele nao consegue mais entrar no carro 
+[+] colocar noclip invicivel  
+[+] Copia roupa bugado  
 [+] Melhorar o silent parece que tanka muito 
 
 
