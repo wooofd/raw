@@ -1,1 +1,1 @@
-Bem-vindo ao Majestic Executor Free
+Bem-vindo ao Majestic Executor Discord Oficial .gg/magostores
