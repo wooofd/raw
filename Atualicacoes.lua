@@ -13,5 +13,9 @@
 [+] colocar noclip invicivel  
 [+] Copia roupa bugado  
 [+] Melhorar o silent parece que tanka muito 
-
+[+] Auto farmer External Majestic
+[+] Interface 2.0
+[+] Controler Warzone , sistema de scroll on  , voce consegue usar o scroll para mudar sua arma 
+[+] Valorant Aimcolor
+[+] Otimizador
 
